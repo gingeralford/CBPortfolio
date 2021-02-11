@@ -1,0 +1,73 @@
+/* chris purple: #190027 */
+body {
+    background-color: #e0f0df !important;
+}
+
+#mainNav {
+    background-color: pink !important;
+}
+
+#mainNav a {
+    color: #BA4C63 !important;
+}
+
+#mainNav button {
+    background-color: #311f3b !important;
+    color: #BA4C63 !important;
+}
+
+#mainNav a:hover {
+    color: white !important;
+}
+
+#mainNav .active {
+    background-color: #311f3b !important;
+    color: white !important;
+}
+
+.masthead, #about, footer, .copyright {
+    background-color: #311f3b !important;
+}
+.masthead, #about h2 {
+    color: pink !important;
+}
+
+#portfolio h2, #contact h2 {
+    color: #311f3b !important;
+}
+/* 
+#portfolio, #about {
+    color: #190027;
+} */
+
+#contactForm {
+    font-size: .8em !important;
+}
+#contactForm input, #contactForm textarea {
+    border-bottom: 1px grey solid;
+}
+
+#contactForm button {
+    background-color: #311f3b !important;
+    border: #311f3b !important;
+}
+#contactForm button:hover {
+    color: pink;
+}
+
+#about {
+    padding-top: 0px !important;
+}
+
+#music {
+    background-color: #311f3b !important;
+    color: white !important;
+}
+
+#music h2 {
+    color: pink;
+}
+/* 
+.divider-custom-line {
+    color: pink !important;
+} */
